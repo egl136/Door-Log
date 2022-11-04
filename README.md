@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # door_log
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Door-Log
+>>>>>>> ec533fee5217e0c87295f9467a7c2c7102c458e7
